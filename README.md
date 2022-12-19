@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DhruvT868
-- 👀 I’m interested in coding for Mechanical designing.
-- 🌱 I’m currently learning python and html basics.
-- 💞️ I’m looking to collaborate on Designing projects.
+- 👀 I’m interested in Data Analytics.
+- 🌱 I’m currently learning python/SQL and html basics.
 - 
 <!---
 DhruvT868/DhruvT868 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
